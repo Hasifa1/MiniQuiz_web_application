@@ -1,0 +1,28 @@
+body{
+    border: violet;
+    background-color: rgb(196, 195, 206);
+    text-emphasis-color:rgb(78, 119, 13);
+}
+div.back{
+    text-align:end;
+  }
+  h2{
+    color: rgb(241, 3, 209);
+    border-style:inset;
+    border-color: #c8d3be;
+}
+h1{
+    color: rgb(23, 9, 100);
+}
+.button
+  {
+     background-color: rgb(112, 81, 170);
+     border: none;
+     color: white;
+     padding: 15px 25px;
+     text-align: center;
+     display: inline-block;
+     margin: auto;
+     cursor:pointer;
+     box-shadow: blueviolet;
+  }

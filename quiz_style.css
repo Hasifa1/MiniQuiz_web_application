@@ -1,0 +1,33 @@
+*{
+    margin: 4;
+    padding: 2;
+    box-sizing: border-box;
+}
+body{
+    background: #baf58a;
+    margin: 20,20,20,20;
+}
+    h2{
+        color: rgb(241, 3, 209);
+        border-style:inset;
+        border-color: #c8d3be;
+    }
+    h1{
+        color: rgb(23, 9, 100);
+    }
+    input{
+        height: 20px;
+        width: 20px;
+    }
+    input.sub,button{
+        width: 150px;
+        height: 30px;
+        background-color: coral;
+        color: #000;
+        font-size: 20px;
+        cursor: pointer;
+    }
+    input.sub,button:hover{
+        background-color: rgb(238, 121, 121);
+        transform: translateY(0.5px);
+        }

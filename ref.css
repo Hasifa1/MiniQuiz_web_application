@@ -1,0 +1,27 @@
+.button
+  {
+     background-color: rgb(112, 81, 170);
+     border: none;
+     color: white;
+     padding: 15px 25px;
+     text-align: center;
+     display: inline-block;
+     margin: auto;
+     cursor:pointer;
+     box-shadow: blueviolet;
+  }
+  body{
+      background-color: rgb(231, 186, 73);
+  }
+  ul{
+      background: #3399ff;
+      padding: 20px;
+  }
+  ul li{
+      text-size-adjust: 20px;
+      background: turquoise;
+      margin: 20px;
+  }
+  h2{
+      color: brown;
+  }
